@@ -1,0 +1,19 @@
+-- Made by f1uxin, please read the (README) file and enjoy!
+-- P.S. If there is no README file, this file has most likely been stolen the creator of these files is @𓆩𝙁𝟙𝙪𝙭𝙞𝙣𓆪 / username - f1uxin. On discord, nobody else.
+-- If you want to redistribute/share these files, read the README TXT for more info.
+-- Feel free to join my (F1uxins) official server: https://discord.gg/NmmpgnAgen
+-- (We show everything about piracy, including manifest & lua stuff also known as the "Steam method", all for free, Nobody should need to pay for info that is spread and shown for free.)
+
+addappid(300)
+addappid(301,0,"b0e1a343e9ff545d91e6c128b43cc4a4e712ef4b9702583e488a1991bee29ef5")
+setManifestid(301,"6488735773013168058")
+addappid(300,0,"8bc842d9dd9cbd2e1dbb2381cab1927a8d8ab01bb294b731fe5c2be352d22c03")
+setManifestid(300,"1886571201954240707")
+addappid(232291,0,"f9481068cad14c0ac5715b00a99af04954692c3052911c6e3905fa94b50c5d3e")
+setManifestid(232291,"8765369928018209132")
+addappid(232292,0,"19790405bf9d4be57ec7fcdb11b9633fbd21cfc86ddf939c50299f8cdacae8d2")
+setManifestid(232292,"7920068898152903955")
+addappid(232293,0,"50aedfa245e95f8831f030730182a35acd952179d3085aa41c65af5a26e7c6ce")
+setManifestid(232293,"2269334468004427837")
+addappid(209,0,"65597f95b601e6c3f4b97d9044ab4c12ac772121cb0c7fb6c09495881e6421c6")
+setManifestid(209,"7603860182937987947")
