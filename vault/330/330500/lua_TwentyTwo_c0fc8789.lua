@@ -1,2 +1,0 @@
-addappid(330500)
-addappid(330501,0,"3e578840c371aa1abd3bc88e3defe0a6805e24d97e0bb1d7cffc7f9d7b7edc7d")

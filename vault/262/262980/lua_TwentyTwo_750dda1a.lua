@@ -1,2 +1,0 @@
-addappid(262980)
-addappid(262982,0,"72b68be37ce2b5befa8a2c786eb7ea35d776fbf26f849d5d683bc731a0816d79")
